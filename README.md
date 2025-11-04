@@ -85,7 +85,8 @@ npm install
 node server.js
 
 
-Por defecto corre en http://localhost:5000
+Por defecto corre en:
+http://localhost:5000
 
 Frontend
 cd frontend
@@ -93,7 +94,8 @@ npm install
 npm run dev
 
 
-Por defecto corre en http://localhost:5173
+Por defecto corre en:
+http://localhost:5173
 
 6. Conexión entre frontend y backend
 
